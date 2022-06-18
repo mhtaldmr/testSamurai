@@ -94,6 +94,7 @@ namespace TestSamurai.UnitTests.Tests
         }
 
         [Test]
+        [Ignore("That test will be refactored")]
         public void Peek_StackWithObjects_DoesNotDeleteTheLastObject()
         {
             //Arrange
