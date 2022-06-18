@@ -14,7 +14,8 @@ This project is an example of using NUnit Testing Library
 - Unit tests with a SetUp method
 - Unit tests with parameter approach with different scenarios
 - Unit tests for throwing excepsions
+- Unit Tests with events.
 - Ignoring Tests
-- 
+
 
 
